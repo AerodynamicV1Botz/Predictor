@@ -14,4 +14,4 @@ humanize
 Flask==3.0.3
 gunicorn==23.0.0
 aiohttp==3.10.10
-pymongo[srv]==3.12.3
+pymongo[srv]==4.10.1
