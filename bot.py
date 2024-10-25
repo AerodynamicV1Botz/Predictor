@@ -4,7 +4,7 @@
 import os
 import logging
 from config import Config
-from pyrogram import Client as LazyDeveloper
+from pyrogram import Client as AerodynamicV1Botz
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 logger = logging.getLogger(__name__)
